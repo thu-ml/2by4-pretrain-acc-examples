@@ -20,8 +20,8 @@ Usage:
 
 1. Follow the instructions in `cramming/setup_env.sh` to set up the environment, and make sure nvcc version and cuda version of pytorch match.
 2. Prepare data.
-3. For pre-training, follow each `run.sh` scripts in `cramming/*` folders.
-4. For fine-tuning, `cramming/*-eval` folders are prepared for Bi-Mask, STEP and SR-STE, and for Dense and Half we use the same directory as pre-training. Move the `outputs` folder to one of these working directories, and follow run.sh in each of them.
+3. For pre-training, follow each `start.sh` scripts in `cramming/*` folders.
+4. For fine-tuning, `cramming/*-eval` folders are prepared for Bi-Mask, STEP and SR-STE, and for Dense and Half we use the same directory as pre-training. Move the `outputs` folder to one of these working directories, and follow `start.sh` in each of them.
 
 ### DeiT
 
