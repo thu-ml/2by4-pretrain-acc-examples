@@ -1,0 +1,754 @@
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 64
+Overriding: n_head = 12
+Overriding: n_embd = 768
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 45.71M
+iter 0: time 28282.54ms
+iter 1: time 7771.84ms
+iter 2: time 7779.80ms
+iter 3: time 7802.03ms
+iter 4: time 7819.60ms
+iter 5: time 7824.07ms
+iter 6: time 7826.15ms
+iter 7: time 7830.00ms
+iter 8: time 7830.86ms
+iter 9: time 7837.25ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 32
+Overriding: n_head = 12
+Overriding: n_embd = 768
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 45.71M
+iter 0: time 23869.40ms
+iter 1: time 3804.66ms
+iter 2: time 3807.73ms
+iter 3: time 3806.85ms
+iter 4: time 3809.61ms
+iter 5: time 3808.86ms
+iter 6: time 3812.00ms
+iter 7: time 3806.37ms
+iter 8: time 3812.10ms
+iter 9: time 3807.69ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 16
+Overriding: n_head = 12
+Overriding: n_embd = 768
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 45.71M
+iter 0: time 21564.36ms
+iter 1: time 1863.92ms
+iter 2: time 1863.69ms
+iter 3: time 1865.70ms
+iter 4: time 1864.95ms
+iter 5: time 1865.03ms
+iter 6: time 1866.21ms
+iter 7: time 1865.50ms
+iter 8: time 1866.73ms
+iter 9: time 1866.20ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 8
+Overriding: n_head = 12
+Overriding: n_embd = 768
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 45.71M
+iter 0: time 20296.51ms
+iter 1: time 944.96ms
+iter 2: time 947.32ms
+iter 3: time 947.66ms
+iter 4: time 946.90ms
+iter 5: time 947.89ms
+iter 6: time 947.31ms
+iter 7: time 948.11ms
+iter 8: time 947.22ms
+iter 9: time 947.64ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 4
+Overriding: n_head = 12
+Overriding: n_embd = 768
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 45.71M
+iter 0: time 19771.57ms
+iter 1: time 496.16ms
+iter 2: time 500.14ms
+iter 3: time 497.50ms
+iter 4: time 500.22ms
+iter 5: time 497.63ms
+iter 6: time 500.06ms
+iter 7: time 497.53ms
+iter 8: time 500.39ms
+iter 9: time 498.36ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 64
+Overriding: n_head = 16
+Overriding: n_embd = 1024
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 64.10M
+iter 0: time 41393.10ms
+iter 1: time 12154.27ms
+iter 2: time 12156.09ms
+iter 3: time 12156.41ms
+iter 4: time 12157.80ms
+iter 5: time 12167.20ms
+iter 6: time 12172.91ms
+iter 7: time 12171.21ms
+iter 8: time 12179.02ms
+iter 9: time 12172.68ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 32
+Overriding: n_head = 16
+Overriding: n_embd = 1024
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 64.10M
+iter 0: time 26146.26ms
+iter 1: time 5932.18ms
+iter 2: time 5930.05ms
+iter 3: time 5931.17ms
+iter 4: time 5930.60ms
+iter 5: time 5933.76ms
+iter 6: time 5934.08ms
+iter 7: time 5937.00ms
+iter 8: time 5937.42ms
+iter 9: time 5936.57ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 16
+Overriding: n_head = 16
+Overriding: n_embd = 1024
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 64.10M
+iter 0: time 22841.42ms
+iter 1: time 2919.17ms
+iter 2: time 2920.55ms
+iter 3: time 2921.68ms
+iter 4: time 2921.19ms
+iter 5: time 2923.96ms
+iter 6: time 2923.33ms
+iter 7: time 2924.50ms
+iter 8: time 2923.76ms
+iter 9: time 2924.63ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 8
+Overriding: n_head = 16
+Overriding: n_embd = 1024
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 64.10M
+iter 0: time 21054.96ms
+iter 1: time 1475.82ms
+iter 2: time 1476.60ms
+iter 3: time 1476.31ms
+iter 4: time 1476.45ms
+iter 5: time 1476.74ms
+iter 6: time 1477.91ms
+iter 7: time 1477.78ms
+iter 8: time 1477.10ms
+iter 9: time 1478.32ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 4
+Overriding: n_head = 16
+Overriding: n_embd = 1024
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 64.10M
+iter 0: time 19989.15ms
+iter 1: time 772.60ms
+iter 2: time 770.92ms
+iter 3: time 770.98ms
+iter 4: time 772.36ms
+iter 5: time 772.10ms
+iter 6: time 771.64ms
+iter 7: time 771.47ms
+iter 8: time 772.80ms
+iter 9: time 773.04ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 64
+Overriding: n_head = 32
+Overriding: n_embd = 2048
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 153.36M
+iter 0: time 54398.92ms
+iter 1: time 37226.52ms
+iter 2: time 37266.16ms
+iter 3: time 37283.09ms
+iter 4: time 37290.97ms
+iter 5: time 37290.07ms
+iter 6: time 37282.48ms
+iter 7: time 37290.98ms
+iter 8: time 37281.68ms
+iter 9: time 37292.67ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 32
+Overriding: n_head = 32
+Overriding: n_embd = 2048
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 153.36M
+iter 0: time 37141.10ms
+iter 1: time 18277.17ms
+iter 2: time 18280.67ms
+iter 3: time 18294.94ms
+iter 4: time 18292.07ms
+iter 5: time 18294.34ms
+iter 6: time 18294.27ms
+iter 7: time 18296.85ms
+iter 8: time 18303.82ms
+iter 9: time 18295.99ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 16
+Overriding: n_head = 32
+Overriding: n_embd = 2048
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 153.36M
+iter 0: time 28437.83ms
+iter 1: time 8956.98ms
+iter 2: time 8965.87ms
+iter 3: time 8980.23ms
+iter 4: time 8977.18ms
+iter 5: time 8984.75ms
+iter 6: time 8982.91ms
+iter 7: time 8990.40ms
+iter 8: time 8982.76ms
+iter 9: time 8993.59ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 8
+Overriding: n_head = 32
+Overriding: n_embd = 2048
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 153.36M
+iter 0: time 24268.72ms
+iter 1: time 4498.71ms
+iter 2: time 4500.57ms
+iter 3: time 4502.66ms
+iter 4: time 4505.05ms
+iter 5: time 4505.56ms
+iter 6: time 4505.75ms
+iter 7: time 4507.28ms
+iter 8: time 4506.93ms
+iter 9: time 4505.24ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 4
+Overriding: n_head = 32
+Overriding: n_embd = 2048
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 153.36M
+iter 0: time 21844.26ms
+iter 1: time 2301.55ms
+iter 2: time 2301.82ms
+iter 3: time 2302.11ms
+iter 4: time 2303.52ms
+iter 5: time 2303.49ms
+iter 6: time 2302.73ms
+iter 7: time 2304.07ms
+iter 8: time 2304.51ms
+iter 9: time 2304.30ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 64
+Overriding: n_head = 64
+Overriding: n_embd = 2560
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 207.43M
+Traceback (most recent call last):
+  File "/root/accelerate/sparse-block/train.py", line 129, in <module>
+    scaler.scale(out).backward(Y)
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/_tensor.py", line 522, in backward
+    torch.autograd.backward(
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/autograd/__init__.py", line 266, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/autograd/function.py", line 289, in apply
+    return user_fn(self, *args)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/cuda/amp/autocast_mode.py", line 142, in decorate_bwd
+    return bwd(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/accelerate/sparse-block/sparse/sparse_ops.py", line 88, in backward
+    grad_input = torch.mm(grad_output, weight_T.t()).view(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/accelerate/sparse-block/sparse/semi_structured.py", line 439, in __torch_dispatch__
+    res = torch._sparse_semi_structured_linear(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 2.50 GiB. GPU 0 has a total capacity of 23.69 GiB of which 2.48 GiB is free. Process 265687 has 21.20 GiB memory in use. Of the allocated memory 19.47 GiB is allocated by PyTorch, and 1.42 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 32
+Overriding: n_head = 32
+Overriding: n_embd = 2560
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 207.43M
+iter 0: time 44761.51ms
+iter 1: time 27230.28ms
+iter 2: time 27263.11ms
+iter 3: time 27272.14ms
+iter 4: time 27275.04ms
+iter 5: time 27277.63ms
+iter 6: time 27277.20ms
+iter 7: time 27283.03ms
+iter 8: time 27282.23ms
+iter 9: time 27288.80ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 16
+Overriding: n_head = 32
+Overriding: n_embd = 2560
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 207.43M
+iter 0: time 32322.03ms
+iter 1: time 13436.39ms
+iter 2: time 13436.61ms
+iter 3: time 13446.22ms
+iter 4: time 13454.75ms
+iter 5: time 13456.69ms
+iter 6: time 13455.84ms
+iter 7: time 13463.88ms
+iter 8: time 13457.07ms
+iter 9: time 13455.14ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 8
+Overriding: n_head = 32
+Overriding: n_embd = 2560
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 207.43M
+iter 0: time 26217.32ms
+iter 1: time 6812.34ms
+iter 2: time 6812.92ms
+iter 3: time 6817.58ms
+iter 4: time 6823.10ms
+iter 5: time 6825.68ms
+iter 6: time 6825.27ms
+iter 7: time 6828.92ms
+iter 8: time 6826.73ms
+iter 9: time 6825.60ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 4
+Overriding: n_head = 32
+Overriding: n_embd = 2560
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 207.43M
+iter 0: time 22962.57ms
+iter 1: time 3474.04ms
+iter 2: time 3476.70ms
+iter 3: time 3479.52ms
+iter 4: time 3481.75ms
+iter 5: time 3481.03ms
+iter 6: time 3481.92ms
+iter 7: time 3483.47ms
+iter 8: time 3485.54ms
+iter 9: time 3484.77ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 32
+Overriding: n_head = 32
+Overriding: n_embd = 4096
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 407.38M
+iter 0: time 72462.92ms
+iter 1: time 59946.97ms
+iter 2: time 60694.97ms
+iter 3: time 60714.57ms
+iter 4: time 60728.44ms
+iter 5: time 60718.64ms
+iter 6: time 60731.90ms
+iter 7: time 60711.90ms
+iter 8: time 60706.01ms
+iter 9: time 60719.44ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 16
+Overriding: n_head = 32
+Overriding: n_embd = 4096
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 407.38M
+iter 0: time 46159.67ms
+iter 1: time 30159.55ms
+iter 2: time 30194.97ms
+iter 3: time 30207.14ms
+iter 4: time 30210.99ms
+iter 5: time 30212.53ms
+iter 6: time 30208.23ms
+iter 7: time 30213.94ms
+iter 8: time 30215.39ms
+iter 9: time 30218.90ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 8
+Overriding: n_head = 32
+Overriding: n_embd = 4096
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 407.38M
+iter 0: time 33723.88ms
+iter 1: time 15326.90ms
+iter 2: time 15355.55ms
+iter 3: time 15355.53ms
+iter 4: time 15355.97ms
+iter 5: time 15356.16ms
+iter 6: time 15354.09ms
+iter 7: time 15354.82ms
+iter 8: time 15355.73ms
+iter 9: time 15354.89ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 4
+Overriding: n_head = 32
+Overriding: n_embd = 4096
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 407.38M
+iter 0: time 27281.58ms
+iter 1: time 7898.89ms
+iter 2: time 7905.84ms
+iter 3: time 7908.43ms
+iter 4: time 7914.64ms
+iter 5: time 7919.65ms
+iter 6: time 7922.63ms
+iter 7: time 7925.35ms
+iter 8: time 7922.39ms
+iter 9: time 7922.57ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 32
+Overriding: n_head = 40
+Overriding: n_embd = 5120
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 572.14M
+Traceback (most recent call last):
+  File "/root/accelerate/sparse-block/train.py", line 129, in <module>
+    scaler.scale(out).backward(Y)
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/_tensor.py", line 522, in backward
+    torch.autograd.backward(
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/autograd/__init__.py", line 266, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/autograd/function.py", line 289, in apply
+    return user_fn(self, *args)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/cuda/amp/autocast_mode.py", line 142, in decorate_bwd
+    return bwd(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/accelerate/sparse-block/sparse/sparse_ops.py", line 88, in backward
+    grad_input = torch.mm(grad_output, weight_T.t()).view(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/accelerate/sparse-block/sparse/semi_structured.py", line 439, in __torch_dispatch__
+    res = torch._sparse_semi_structured_linear(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 2.50 GiB. GPU 0 has a total capacity of 23.69 GiB of which 397.69 MiB is free. Process 375056 has 23.29 GiB memory in use. Of the allocated memory 22.32 GiB is allocated by PyTorch, and 672.14 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 16
+Overriding: n_head = 40
+Overriding: n_embd = 5120
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 572.14M
+iter 0: time 58498.50ms
+iter 1: time 45602.01ms
+iter 2: time 45682.98ms
+iter 3: time 45701.04ms
+iter 4: time 45701.15ms
+iter 5: time 45709.50ms
+iter 6: time 45732.25ms
+iter 7: time 45733.05ms
+iter 8: time 45725.85ms
+iter 9: time 45727.65ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 8
+Overriding: n_head = 40
+Overriding: n_embd = 5120
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 572.14M
+iter 0: time 40009.97ms
+iter 1: time 23161.41ms
+iter 2: time 23199.80ms
+iter 3: time 23222.63ms
+iter 4: time 23227.93ms
+iter 5: time 23240.98ms
+iter 6: time 23242.95ms
+iter 7: time 23232.78ms
+iter 8: time 23246.11ms
+iter 9: time 23254.37ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 4
+Overriding: n_head = 40
+Overriding: n_embd = 5120
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 572.14M
+iter 0: time 30861.13ms
+iter 1: time 11988.82ms
+iter 2: time 12010.27ms
+iter 3: time 12016.28ms
+iter 4: time 12020.30ms
+iter 5: time 12025.47ms
+iter 6: time 12027.40ms
+iter 7: time 12029.34ms
+iter 8: time 12027.14ms
+iter 9: time 12032.02ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 16
+Overriding: n_head = 56
+Overriding: n_embd = 7168
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 977.16M
+Traceback (most recent call last):
+  File "/root/accelerate/sparse-block/train.py", line 129, in <module>
+    scaler.scale(out).backward(Y)
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/_tensor.py", line 522, in backward
+    torch.autograd.backward(
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/autograd/__init__.py", line 266, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 784.00 MiB. GPU 0 has a total capacity of 23.69 GiB of which 259.69 MiB is free. Process 425192 has 23.43 GiB memory in use. Of the allocated memory 22.46 GiB is allocated by PyTorch, and 668.10 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 8
+Overriding: n_head = 56
+Overriding: n_embd = 7168
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 977.16M
+iter 0: time 55945.81ms
+iter 1: time 43515.57ms
+iter 2: time 43668.45ms
+iter 3: time 43685.44ms
+iter 4: time 43695.37ms
+iter 5: time 43709.19ms
+iter 6: time 43710.64ms
+iter 7: time 43706.91ms
+iter 8: time 43710.07ms
+iter 9: time 43703.84ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 4
+Overriding: n_head = 56
+Overriding: n_embd = 7168
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 977.16M
+iter 0: time 39113.50ms
+iter 1: time 22282.14ms
+iter 2: time 22332.68ms
+iter 3: time 22363.33ms
+iter 4: time 22379.58ms
+iter 5: time 22382.16ms
+iter 6: time 22399.44ms
+iter 7: time 22425.82ms
+iter 8: time 22430.09ms
+iter 9: time 22430.23ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 4
+Overriding: n_head = 72
+Overriding: n_embd = 9216
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 1482.85M
+iter 0: time 49850.52ms
+iter 1: time 36056.67ms
+iter 2: time 36153.06ms
+iter 3: time 36181.51ms
+iter 4: time 36194.64ms
+iter 5: time 36198.98ms
+iter 6: time 36199.61ms
+iter 7: time 36193.49ms
+iter 8: time 36189.46ms
+iter 9: time 36188.01ms
+/root/accelerate/sparse-block/sparse/semi_structured.py:99: UserWarning: The PyTorch API of SparseSemiStructuredTensor is in prototype stage and will change in the near future. Please open a Github issue for features requests and see our documentation on the torch.sparse module for further information about the project.
+  warnings.warn(
+Overriding config with config/train_gpt2.py:
+Overriding: compile = False
+Overriding: wandb_log = False
+Overriding: dataset = shakespeare_char
+Overriding: batch_size = 1
+Overriding: n_head = 96
+Overriding: n_embd = 12288
+Overriding: n_layer = 1
+Overriding: block_size = 2048
+number of parameters: 2430.11M
+Traceback (most recent call last):
+  File "/root/accelerate/sparse-block/train.py", line 129, in <module>
+    scaler.scale(out).backward(Y)
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/_tensor.py", line 522, in backward
+    torch.autograd.backward(
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/autograd/__init__.py", line 266, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/autograd/function.py", line 289, in apply
+    return user_fn(self, *args)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/pytorch/lib/python3.11/site-packages/torch/cuda/amp/autocast_mode.py", line 142, in decorate_bwd
+    return bwd(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/accelerate/sparse-block/sparse/sparse_ops.py", line 93, in backward
+    grad_weight = torch.mm(to_sparse_semi_structured(grad_output.t(), MVUE24=True), input)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/accelerate/sparse-block/sparse/semi_structured.py", line 419, in __torch_dispatch__
+    res = torch._sparse_semi_structured_linear(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 1.12 GiB. GPU 0 has a total capacity of 23.69 GiB of which 285.69 MiB is free. Process 490407 has 23.40 GiB memory in use. Of the allocated memory 22.27 GiB is allocated by PyTorch, and 841.72 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
