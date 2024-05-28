@@ -47,18 +47,5 @@ torchrun --standalone --nproc_per_node=8 train.py config/train_gpt2.py --compile
 
 Follow ` accelerate/run_ffn.sh ` and `accelerate/run_block.sh`.
 
-## Citation
 
-If you use this codebase or find our work interesting, please consider citing:
-
-```
-@misc{hu2024accelerating,
-      title={Accelerating Transformer Pre-Training with 2:4 Sparsity}, 
-      author={Yuezhou Hu and Kang Zhao and Weiyu Huang and Jianfei Chen and Jun Zhu},
-      year={2024},
-      eprint={2404.01847},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
 
