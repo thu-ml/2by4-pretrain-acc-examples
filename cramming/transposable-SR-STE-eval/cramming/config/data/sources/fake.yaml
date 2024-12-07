@@ -1,7 +1,0 @@
-# Just a bunch of fake data ...
-fake:
-  provider: fake
-  split:
-
-  randgen_seed: 0
-  size: 2048

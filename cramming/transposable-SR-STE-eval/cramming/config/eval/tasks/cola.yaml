@@ -1,5 +1,0 @@
-# COLA-specific settings
-cola:
-  collection: glue
-  regression: False
-  structure: [sentence, null]

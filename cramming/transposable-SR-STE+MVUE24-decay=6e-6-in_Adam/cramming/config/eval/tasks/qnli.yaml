@@ -1,5 +1,0 @@
-# dataset-specific settings
-qnli:
-  collection: glue
-  regression: False
-  structure: [question, sentence]

@@ -1,5 +1,0 @@
-# dataset-specific settings
-mnli:
-  collection: glue
-  regression: False
-  structure: [premise, hypothesis]

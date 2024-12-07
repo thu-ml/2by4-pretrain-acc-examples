@@ -1,1 +1,0 @@
-from .shampoo import Shampoo
