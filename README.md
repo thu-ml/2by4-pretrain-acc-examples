@@ -14,6 +14,18 @@ Yuezhou Hu, Jun Zhu, Jianfei Chen
 
 Neural Information Processing Systems (NeurIPS), 2024
 
+## Installation
+
+**From source:**
+
+```
+git clone --recursive https://github.com/huyz2023/2by4-pretrain
+cd 2by4-pretrain
+pip install -e .
+```
+
+Please refer to [https://github.com/huyz2023/2by4-pretrain](https://github.com/huyz2023/2by4-pretrain) for more details about our toolkit.
+
 ## Training
 
 The different folders include different methods:
